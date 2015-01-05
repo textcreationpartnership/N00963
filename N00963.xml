@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:001156_0000_0FB092F8A35D2190"/>
-            <pb facs="tcp:001156_0001_0FB092FA30E541F8" rendition="simple:additions"/>
+            <pb facs="unknown:001156_0000_0FB092F8A35D2190"/>
+            <pb facs="unknown:001156_0001_0FB092FA30E541F8"
+                rendition="simple:additions"/>
             <p>A CONFESSION OF FAITH OR, A Summary of Divinity.</p>
             <p>Drawn up, By a Young Gentle-Woman, In the <hi>Twenty-Fifth</hi> Year of her Age.</p>
             <p>And now Published, for the Benefit of ALL, but more especially of YOUNG Persons; That they may Attain to a competent Knowledge, in Saving and Divine Truths.</p>
@@ -120,7 +121,7 @@
                <hi>Boston,</hi> Printed for, and Sold by <hi>Benjamin Eliot,</hi> under the West End of the Exchange. 1704.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:001156_0002_0FB092FD2487DA38"/>
+            <pb facs="unknown:001156_0002_0FB092FD2487DA38"/>
             <head>The Publisher to the READER.</head>
             <p>PERHAPS your Curiosity may Enquire, whence this small Composure had its Original? To satisfy this Curiosity, I am willing to let you know thus much; That being in the House of a private Friend, I had this small Script presented to my view, upon the perusal whereof, I could not but Express my value for it, and my just Acknowledgements unto the then unknown Author of it; whom upon Enquiry, I find to be a De<g ref="char:EOLhyphen"/>ceased <hi>Gentle-Woman</hi> (formerly the Religious Consort of the Reverend Mr. <hi>Moses Fiske,</hi> Pastor of the Church of <hi>Brantrey</hi>) who, at her Admission into the Church, gave this as a <hi>Confession of her Faith,</hi> drawn up by her, alto<g ref="char:EOLhyphen"/>gether without his Assistance. Vpon due Consideration, I thought the Publication hereof, would be of no small ad<g ref="char:EOLhyphen"/>vantage unto the Children in this Land, (and not altogether to be despised by riper Years) who have herein, briefly summ'd up the main Articles of their Creed, yet fully, per<g ref="char:EOLhyphen"/>haps exceeding any Composure, ordinarily to be met with<g ref="char:EOLhyphen"/>al, of the same Dimentions. Tis not with a design to blazon the Fame and Reputation of any Person, that this is now presented to the Publick View: But as the design of it is purely to do Good, so I hope it will be received with all Candor, without any carping or critical Reflections, upon any thing meerly Circumstantial, since the Main is Serious, Solid, and no wayes to be disapproved</p>
             <p>That it may be followed with a blessing upon all, that shall employ their Minutes in the perusal of it, but especially upon Young Ones, who may hence gather the Fragrant Flowers of Divine Knowledge, is, and shall be, the Hearty Desire and Prayer of him, who is</p>
@@ -135,7 +136,7 @@
       </front>
       <body>
          <div type="confession_of_faith">
-            <pb n="3" facs="tcp:001156_0003_0FB092FEA3591E38"/>
+            <pb n="3" facs="unknown:001156_0003_0FB092FEA3591E38"/>
             <head>A CONFESSION OF FAITH. &amp;c.</head>
             <p>I <hi>Believe,</hi> That the <hi>Holy Scriptures,</hi> the Books of the Old &amp; the New Testament, Penned by the Pro<g ref="char:EOLhyphen"/>phets &amp; Apostles, are the Infallible Word of God, the Subject of true Divinity; That only Rule of Faith &amp; Manners, teaching what man ought to Believe concerning God, and what Duty God requires of man.</p>
             <p>
@@ -153,7 +154,7 @@
                <hi>I Believe,</hi> The <hi>Providence</hi> of God is that, whereby He accom<g ref="char:EOLhyphen"/>plisheth in His Creatures, what He intended in his Counsel.</p>
             <p>
                <hi>I Believe,</hi> That as <hi>Man</hi> at first, was formed of the Dust of the Earth, consisting both of Soul &amp; Body, being made Up<g ref="char:EOLhyphen"/>right, Cloathed with the Image of God; the Effects where<g ref="char:EOLhyphen"/>of, were a sweet and blessed Harmony of Union and Com<g ref="char:EOLhyphen"/>munion with God; so from this estate of happiness, all men fearfully Fell in <hi>Adam,</hi> thro' wilful Disobedience, in contradicting the Express Commandment of God, by Eat<g ref="char:EOLhyphen"/>ing the Forbidden Fruit. The Act of this Transgression, was compleated by our First Parents Eating that forbidden Fruit; in the Guilt of which Act, all the natural Posterity of <hi>Adam,</hi> are by the just imputation of God involved. The
-<pb n="4" facs="tcp:001156_0004_0FB0930043CC5210"/>
+<pb n="4" facs="unknown:001156_0004_0FB0930043CC5210"/>
 principal (blameable) cause was their abusing their Free<g ref="char:EOLhyphen"/>will: The helping cause was the Devil. Altogether un<g ref="char:EOLhyphen"/>blameable was the Command of God, against which <hi>Adam</hi> dashing himself, as a stately Vessel against a mighty Rock, made Ship-wreck of his whole estate. The Consequents whereof, were <hi>Guilt, Filth,</hi> and <hi>Punishment.</hi>
             </p>
             <p>
@@ -179,7 +180,7 @@ principal (blameable) cause was their abusing their Free<g ref="char:EOLhyphen"/
             <p>
                <hi>I Believe,</hi> That there are some, (tho' but a few,) their number and names, being only known unto God, who shall be everlastingly saved from sin and sorrow, and freely re<g ref="char:EOLhyphen"/>ceived into everlasting life; being such as the Lord in His infinite wisdom hath made choice of, before the world was, to be His Militant Servants on Earth, &amp; to be His Triumphant Saints in Heaven, thro' Riches of, Grace in Christ Jesus.</p>
             <p>
-               <pb n="5" facs="tcp:001156_0005_0FB093052C9FC460"/>
+               <pb n="5" facs="unknown:001156_0005_0FB093052C9FC460"/>
                <hi>Restitution,</hi> is that whereby a man is lifted up, from a state of Sin and Death, into a state of Grace and Life. The parts whereof are <hi>Redemption</hi> and <hi>Application.</hi>
             </p>
             <p>
@@ -190,7 +191,7 @@ principal (blameable) cause was their abusing their Free<g ref="char:EOLhyphen"/
                <hi>I Believe,</hi> That the Effectual &amp; saving Application of Christ and all his purchased Grace, in a Gospel way, is Exhibited in due season, to every one that belongs to the <hi>Election</hi> of Grace; which consists in <hi>Vnion</hi> and <hi>Communion</hi> with Christ.</p>
             <p>
                <hi>Vnion</hi> with Christ, is the consent and agreement, whereby a Believer is joyned to Christ, as his <hi>Spiritual Head.</hi> This Union is begun, in the powerful Ministry of the <hi>Law,</hi> where<g ref="char:EOLhyphen"/>by the Soul is convinced of Sin, &amp; the necessity of a Saviour;
-<pb n="6" facs="tcp:001156_0006_0FB09308F05D5900"/>
+<pb n="6" facs="unknown:001156_0006_0FB09308F05D5900"/>
 but it is accomplished in <hi>Vocation,</hi> which is a fruit of the Covenant, whereby the Lord powerfully accompanying his Word by his Spirit, doth not only graciously Invite, but effectually <hi>Draw</hi> the Soul to accept the Tender of Grace, and to embrace Fellowship with Christ Jesus. The special Graces here required are, <hi>Repentance</hi> and <hi>Faith.</hi>
             </p>
             <p>
@@ -208,7 +209,7 @@ but it is accomplished in <hi>Vocation,</hi> which is a fruit of the Covenant, w
                <hi>Prayer</hi> is a going to God in the Name of Christ, by the help of the Spirit, whereby we present our desires before him, for things according to his Will.</p>
             <p>
                <hi>I Believe,</hi> That <hi>Sanctification</hi> is a Work of Gods power, whereby sinners are translated from the pollution of sin unto the perfection of the Image of God; which is begun
-<pb n="7" facs="tcp:001156_0007_0FB09309F76D58A8"/>
+<pb n="7" facs="unknown:001156_0007_0FB09309F76D58A8"/>
 in a state of imperfection in this life, made perfect &amp; com<g ref="char:EOLhyphen"/>pleat in the world to come. The parts whereof, are <hi>Mor<g ref="char:EOLhyphen"/>tification,</hi> and <hi>Vivification. Mortification</hi> is a putting off the Image of <hi>Adam,</hi> by applying the <hi>Death</hi> of Christ. <hi>Vivifi<g ref="char:EOLhyphen"/>cation</hi> is a putting on, the Image of <hi>Christ,</hi> by applying the power of His <hi>Resurrection.</hi>
             </p>
             <p>
@@ -230,7 +231,7 @@ in a state of imperfection in this life, made perfect &amp; com<g ref="char:EOLh
             <p>The Labour of the <hi>Teacher</hi> is that, whereby he bends himself, especially to <hi>open the Scriptures, &amp; divine principles, refuting errors</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:001156_0008_0FB0930C59F274C0"/>The Work of a <hi>Ruling-Elder,</hi> consists in waiting at the Doors of the <hi>Sanctuary, watching over the Church, and wayes of Church-Members.</hi>
+               <pb n="8" facs="unknown:001156_0008_0FB0930C59F274C0"/>The Work of a <hi>Ruling-Elder,</hi> consists in waiting at the Doors of the <hi>Sanctuary, watching over the Church, and wayes of Church-Members.</hi>
             </p>
             <p>The Office of a <hi>Deacon</hi> is to collect &amp; distribute, the outward Estate of the Church, providing for the Table of the Lord, <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
